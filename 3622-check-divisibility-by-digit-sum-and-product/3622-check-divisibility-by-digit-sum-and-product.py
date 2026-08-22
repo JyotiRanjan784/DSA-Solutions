@@ -1,11 +1,5 @@
-class Solution(object):
-
-    def checkDivisibility(self, n):
-        """
-        :type n: int
-
-        :rtype: bool
-        """
+class Solution:
+    def checkDivisibility(self, n: int) -> bool:
         dsum = 0
         prod = 1
         temp = n
