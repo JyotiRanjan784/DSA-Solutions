@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/JyotiRanjan784/DSA-Solutions/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/JyotiRanjan784/DSA-Solutions/tree/master/0049-group-anagrams) |
+| [0115-distinct-subsequences](https://github.com/JyotiRanjan784/DSA-Solutions/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/JyotiRanjan784/DSA-Solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/JyotiRanjan784/DSA-Solutions/tree/master/0242-valid-anagram) |
 ## Two Pointers
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/JyotiRanjan784/DSA-Solutions/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JyotiRanjan784/DSA-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Trie
 |  |
