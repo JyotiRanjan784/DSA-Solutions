@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/JyotiRanjan784/DSA-Solutions/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/JyotiRanjan784/DSA-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/JyotiRanjan784/DSA-Solutions/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/JyotiRanjan784/DSA-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/JyotiRanjan784/DSA-Solutions/tree/master/0242-valid-anagram) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/JyotiRanjan784/DSA-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/JyotiRanjan784/DSA-Solutions/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/JyotiRanjan784/DSA-Solutions/tree/master/0049-group-anagrams) |
 | [0115-distinct-subsequences](https://github.com/JyotiRanjan784/DSA-Solutions/tree/master/0115-distinct-subsequences) |
@@ -70,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/JyotiRanjan784/DSA-Solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/JyotiRanjan784/DSA-Solutions/tree/master/3904-smallest-stable-index-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/JyotiRanjan784/DSA-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
