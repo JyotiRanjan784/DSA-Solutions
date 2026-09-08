@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/JyotiRanjan784/DSA-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3870-count-commas-in-range](https://github.com/JyotiRanjan784/DSA-Solutions/tree/master/3870-count-commas-in-range) |
 ## Bit Manipulation
 |  |
 | ------- |
