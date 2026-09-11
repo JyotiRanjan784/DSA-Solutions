@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/JyotiRanjan784/DSA-Solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JyotiRanjan784/DSA-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/JyotiRanjan784/DSA-Solutions/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/JyotiRanjan784/DSA-Solutions/tree/master/0238-product-of-array-except-self) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/JyotiRanjan784/DSA-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3903-smallest-stable-index-i](https://github.com/JyotiRanjan784/DSA-Solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/JyotiRanjan784/DSA-Solutions/tree/master/3904-smallest-stable-index-ii) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/JyotiRanjan784/DSA-Solutions/tree/master/0238-product-of-array-except-self) |
 | [3903-smallest-stable-index-i](https://github.com/JyotiRanjan784/DSA-Solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/JyotiRanjan784/DSA-Solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Sliding Window
