@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/JyotiRanjan784/DSA-Solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/JyotiRanjan784/DSA-Solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JyotiRanjan784/DSA-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0189-rotate-array](https://github.com/JyotiRanjan784/DSA-Solutions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/JyotiRanjan784/DSA-Solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/JyotiRanjan784/DSA-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/JyotiRanjan784/DSA-Solutions/tree/master/0347-top-k-frequent-elements) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/JyotiRanjan784/DSA-Solutions/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/JyotiRanjan784/DSA-Solutions/tree/master/0189-rotate-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/JyotiRanjan784/DSA-Solutions/tree/master/0189-rotate-array) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/JyotiRanjan784/DSA-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/JyotiRanjan784/DSA-Solutions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/JyotiRanjan784/DSA-Solutions/tree/master/3871-count-commas-in-range-ii) |
