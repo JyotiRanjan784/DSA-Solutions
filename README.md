@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/JyotiRanjan784/DSA-Solutions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/JyotiRanjan784/DSA-Solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/JyotiRanjan784/DSA-Solutions/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/JyotiRanjan784/DSA-Solutions/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/JyotiRanjan784/DSA-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/JyotiRanjan784/DSA-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/JyotiRanjan784/DSA-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/JyotiRanjan784/DSA-Solutions/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/JyotiRanjan784/DSA-Solutions/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/JyotiRanjan784/DSA-Solutions/tree/master/0283-move-zeroes) |
 ## Dynamic Programming
 |  |
 | ------- |
