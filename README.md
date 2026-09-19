@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/JyotiRanjan784/DSA-Solutions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/JyotiRanjan784/DSA-Solutions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/JyotiRanjan784/DSA-Solutions/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/JyotiRanjan784/DSA-Solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/JyotiRanjan784/DSA-Solutions/tree/master/0053-maximum-subarray) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/JyotiRanjan784/DSA-Solutions/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/JyotiRanjan784/DSA-Solutions/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/JyotiRanjan784/DSA-Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/JyotiRanjan784/DSA-Solutions/tree/master/0283-move-zeroes) |
@@ -137,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/JyotiRanjan784/DSA-Solutions/tree/master/0268-missing-number) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/JyotiRanjan784/DSA-Solutions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
