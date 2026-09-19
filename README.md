@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/JyotiRanjan784/DSA-Solutions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/JyotiRanjan784/DSA-Solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/JyotiRanjan784/DSA-Solutions/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/JyotiRanjan784/DSA-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/JyotiRanjan784/DSA-Solutions/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/JyotiRanjan784/DSA-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/JyotiRanjan784/DSA-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/JyotiRanjan784/DSA-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/JyotiRanjan784/DSA-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/JyotiRanjan784/DSA-Solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/JyotiRanjan784/DSA-Solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/JyotiRanjan784/DSA-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/JyotiRanjan784/DSA-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/JyotiRanjan784/DSA-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/JyotiRanjan784/DSA-Solutions/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/JyotiRanjan784/DSA-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/JyotiRanjan784/DSA-Solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/JyotiRanjan784/DSA-Solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/JyotiRanjan784/DSA-Solutions/tree/master/0347-top-k-frequent-elements) |
 ## String
 |  |
@@ -69,12 +72,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/JyotiRanjan784/DSA-Solutions/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/JyotiRanjan784/DSA-Solutions/tree/master/0268-missing-number) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/JyotiRanjan784/DSA-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/JyotiRanjan784/DSA-Solutions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/JyotiRanjan784/DSA-Solutions/tree/master/3871-count-commas-in-range-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/JyotiRanjan784/DSA-Solutions/tree/master/0268-missing-number) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/JyotiRanjan784/DSA-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Breadth-First Search
 |  |
@@ -127,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/JyotiRanjan784/DSA-Solutions/tree/master/0128-longest-consecutive-sequence) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/JyotiRanjan784/DSA-Solutions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
