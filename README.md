@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/JyotiRanjan784/DSA-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/JyotiRanjan784/DSA-Solutions/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/JyotiRanjan784/DSA-Solutions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/JyotiRanjan784/DSA-Solutions/tree/master/0049-group-anagrams) |
 | [0115-distinct-subsequences](https://github.com/JyotiRanjan784/DSA-Solutions/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/JyotiRanjan784/DSA-Solutions/tree/master/0125-valid-palindrome) |
@@ -143,4 +144,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/JyotiRanjan784/DSA-Solutions/tree/master/0011-container-with-most-water) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/JyotiRanjan784/DSA-Solutions/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/JyotiRanjan784/DSA-Solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
