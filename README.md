@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/JyotiRanjan784/DSA-Solutions/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/JyotiRanjan784/DSA-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/JyotiRanjan784/DSA-Solutions/tree/master/0485-max-consecutive-ones) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/JyotiRanjan784/DSA-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3483-unique-3-digit-even-numbers](https://github.com/JyotiRanjan784/DSA-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/JyotiRanjan784/DSA-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3903-smallest-stable-index-i](https://github.com/JyotiRanjan784/DSA-Solutions/tree/master/3903-smallest-stable-index-i) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/JyotiRanjan784/DSA-Solutions/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/JyotiRanjan784/DSA-Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/JyotiRanjan784/DSA-Solutions/tree/master/0283-move-zeroes) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/JyotiRanjan784/DSA-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -152,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/JyotiRanjan784/DSA-Solutions/tree/master/0020-valid-parentheses) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/JyotiRanjan784/DSA-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
