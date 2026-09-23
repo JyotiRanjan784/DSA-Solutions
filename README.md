@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/JyotiRanjan784/DSA-Solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/JyotiRanjan784/DSA-Solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/JyotiRanjan784/DSA-Solutions/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/JyotiRanjan784/DSA-Solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/JyotiRanjan784/DSA-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JyotiRanjan784/DSA-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/JyotiRanjan784/DSA-Solutions/tree/master/0128-longest-consecutive-sequence) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/JyotiRanjan784/DSA-Solutions/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/JyotiRanjan784/DSA-Solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/JyotiRanjan784/DSA-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/JyotiRanjan784/DSA-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Prefix Sum
@@ -163,5 +165,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/JyotiRanjan784/DSA-Solutions/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/JyotiRanjan784/DSA-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
